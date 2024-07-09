@@ -40,19 +40,18 @@
 
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+## My Stats:
 
-<br>
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=kienptjk123&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+## Activity On GitHub
 
-<div align=center>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kienptjk123)](https://github.com/kienptjk123/github-readme-stats) 
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=000000&text_color=ffffff" alt="top langs" />
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kienptjk123&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 <br/><br/>
 
 <hr/>
