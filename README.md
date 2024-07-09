@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trung+Kien!;" />
@@ -55,9 +54,10 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kienptjk123&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
+
 ## Activity On GitHub
 <p align="center">
-  <a href="https://github.com/Thinkright20">      
+  <a href="https://github.com/kienptjk123">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kienptjk123&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
