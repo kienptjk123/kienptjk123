@@ -52,6 +52,8 @@
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kienptjk123&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+    <a href="https://github.com/kienptjk123/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienptjk123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 </p>
 
 
