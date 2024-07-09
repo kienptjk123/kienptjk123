@@ -38,10 +38,7 @@
     <img src="https://skillicons.dev/icons?i=git,nodejs,javascript,typescript,mongodb,c,java,mysql" /><br>
 </div>
 
-<br/>
-<hr/>
 ## My Stats:
-
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kienptjk123&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
