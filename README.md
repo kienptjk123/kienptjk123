@@ -26,16 +26,8 @@
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
-
-        </b>
-      </td> -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=kienptjk123&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/kienptjk123"> <img src="https://komarev.com/ghpvc/?username=kienptjk123&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
@@ -52,9 +44,7 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kienptjk123&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
     <a href="https://github.com/kienptjk123/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienptjk123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
 </p>
-
 
 ## Activity On GitHub
 <p align="center">
