@@ -1,62 +1,31 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trung Kien
+======================================================================================================================================
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trung+Kien!;" />
-</h1>
+Frontend Developer - Backend Developer
+-----------------
 
-<div align="center">
-  
+I'm a Full-Stack Developer with a strong passion for building scalable, secure, and high-performance web applications. With solid experience in both frontend and backend development, I specialize in creating seamless user experiences and robust server-side architectures. On the frontend, I focus on crafting responsive, accessible, and dynamic interfaces using modern frameworks like React and Next.js. On the backend, I work with technologies such as Node.js, Express, Nestjs, and RESTful or GraphQL APIs to deliver efficient and maintainable systems. I'm particularly interested in clean architecture, performance optimization, and solving real-world problems through thoughtful software design. Continuously learning and evolving, I'm driven to master full-stack development and contribute to building modern, impactful digital products.
+* 🌍  I'm based in Vietnam
+* ✉️  You can contact me at [nguyentrungkien17102004@gmail.com](mailto:nguyentrungkien17102004@gmail.com])
+* 🧠  I'm learning Cloud Devops
+### The tech stacks I used
 
- 🌱 I’m currently learning **Docker, ReactJS, AWS**
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-## Profile Views
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/kienptjk123"> <img src="https://komarev.com/ghpvc/?username=kienptjk123&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+[![The tech stacks I used](https://skillicons.dev/icons?i=js,ts,java,c)](https://skillicons.dev)
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind" />
-    <img src="https://skillicons.dev/icons?i=git,nodejs,javascript,typescript,mongodb,c,java,mysql" /><br>
-</div>
-
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=kienptjk123&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-    <a href="https://github.com/kienptjk123/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kienptjk123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-
-## Activity On GitHub
-<p align="center">
-  <a href="https://github.com/kienptjk123">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kienptjk123&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-<br/><br/>
-
-<hr/>
-
+[![The tech stacks I used](https://skillicons.dev/icons?i=nextjs,redux,react,tailwind,html,css,scss)](https://skillicons.dev)
 <br/>
-
+[![The tech stacks I used](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 <br/>
+[![The tech stacks I used](https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws)](https://skillicons.dev)
+<br/>
+[![The tech stacks I used](https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,rabbitmq)](https://skillicons.dev)
+<br/>
+[![The tech stacks I used](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sql)](https://skillicons.dev)
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/trung.kien.640557" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://github.com/kienptjk123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ki%C3%AAn-nguy%E1%BB%85n-trung-a7433931a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/kienptjk123"><img src="https://github-readme-stats.vercel.app/api?username=kienptjk123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kienptjk123's GitHub stats" /></a><br/>
