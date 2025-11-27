@@ -16,7 +16,7 @@ I'm a Full-Stack Developer with a strong passion for building scalable, secure, 
 <br/>
 [![The tech stacks I used](https://skillicons.dev/icons?i=nodejs,express,nestjs)](https://skillicons.dev)
 <br/>
-[![The tech stacks I used](https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws)](https://skillicons.dev)
+[![The tech stacks I used](https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,terraform,jenkins)](https://skillicons.dev)
 <br/>
 [![The tech stacks I used](https://skillicons.dev/icons?i=git,github,gitlab,figma,postman,rabbitmq)](https://skillicons.dev)
 <br/>
